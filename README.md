@@ -5,6 +5,7 @@ Where we get the data?
   2. www.FIT KAB DAO.com
   3. www.HEALTHPLATZ.com
   4. www.nlovecooking.com
+
 DATA PREPARATION
 - Using Excel for cleaning outlier
 Data analysis
